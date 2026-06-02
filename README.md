@@ -8,7 +8,7 @@
 
 - **DevOps**: Docker, Git, GitHub, Hosting, Firewall, Kubernetes
 - **JavaScript**: Next.js, Nuxt, Vue
-- **Linux**: Caddy, Debian, Ubuntu, SSH, UFW, Fail2ban, Tree
+- **Linux**: Caddy, Debian, Ubuntu, SSH, UFW, Fail2ban, Tree, WireGuard
 - **Python**: FastAPI, Ruff, uv
 - Published automatically on every push to `main` that touches `docs/`
 
