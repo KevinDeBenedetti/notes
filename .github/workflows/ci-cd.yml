@@ -35,5 +35,5 @@ jobs:
     name: Dispatch docs rebuild
     needs: ci
     if: contains(toJSON(github.event.commits.*.modified), 'docs/') || contains(toJSON(github.event.commits.*.added), 'docs/')
-    uses: KevinDeBenedetti/github-workflows/.github/workflows/dispatch-docs.yml@main
+    uses: KevinDeBenedetti/github-workflows/.github/workflows/cd-docs.yml@main
     secrets: inherit
