@@ -306,6 +306,6 @@ ruff check --select=I --diff .
 
 - [Official Documentation](https://docs.astral.sh/ruff/)
 - [Full List of Rules](https://docs.astral.sh/ruff/rules/)
-- [Migration Guide](https://docs.astral.sh/ruff/migration/)
+- [FAQ — comparison with Flake8, Black and isort](https://docs.astral.sh/ruff/faq/)
 - [Editor Integrations](https://docs.astral.sh/ruff/integrations/)
 - [Performance Comparison](https://github.com/astral-sh/ruff#benchmarks)
