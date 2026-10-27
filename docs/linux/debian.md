@@ -4,7 +4,7 @@
 
 ## Automated Bootstrap (Recommended)
 
-For VPS nodes used with the [infra](https://github.com/KevinDeBenedetti/infra) repository, the full provisioning is automated via the dotfiles setup script. This is the standard way to prepare a fresh node:
+For VPS nodes used with the private `infra` repository, the full provisioning is automated via the dotfiles setup script. This is the standard way to prepare a fresh node:
 
 ```bash
 # From your local machine (infra repo):
@@ -247,4 +247,3 @@ sudo fail2ban-client status sshd
 - [Debian Administrator's Handbook — Security](https://debian-handbook.info/browse/stable/security.html)
 - [OVH VPS Security Guide](https://help.ovhcloud.com/csm/fr-vps-security-tips?id=kb_article_view&sysparm_article=KB0047708)
 - [dotfiles — debian init.sh](https://github.com/KevinDeBenedetti/dotfiles/blob/main/os/debian/init.sh)
-- [infra — setup-vps.sh](https://github.com/KevinDeBenedetti/infra/blob/main/scripts/setup-vps.sh)

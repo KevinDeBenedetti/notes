@@ -35,7 +35,7 @@ From your **local machine**:
 make k3s-worker
 ```
 
-This runs [`k3s/install-worker.sh`](https://github.com/KevinDeBenedetti/infra/blob/main/k3s/install-worker.sh) remotely via SSH on VPS2.
+This runs `k3s/install-worker.sh` remotely via SSH on VPS2.
 
 ## Step 2 — Install k3s Agent (manual)
 

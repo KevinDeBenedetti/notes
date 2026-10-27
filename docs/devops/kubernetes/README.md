@@ -32,7 +32,7 @@
 
 ## Repository
 
-The infrastructure source lives at [`KevinDeBenedetti/infra`](https://github.com/KevinDeBenedetti/infra).
+The infrastructure source lives in `KevinDeBenedetti/infra`, a private repository.
 
 ```
 infra/

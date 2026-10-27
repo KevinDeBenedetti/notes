@@ -35,7 +35,7 @@ From your **local machine**:
 make k3s-master
 ```
 
-This runs [`k3s/install-master.sh`](https://github.com/KevinDeBenedetti/infra/blob/main/k3s/install-master.sh) remotely via SSH using the key defined in `SSH_KEY`.
+This runs `k3s/install-master.sh` remotely via SSH using the key defined in `SSH_KEY`.
 
 ## Step 2 — Install k3s Server (manual alternative)
 

@@ -72,7 +72,7 @@ ssh root@<WORKER_IP>
 
 ## Phase 2 — Automated OS Hardening
 
-The [`scripts/setup-vps.sh`](https://github.com/KevinDeBenedetti/infra/blob/main/scripts/setup-vps.sh) script bootstraps each VPS with the dotfiles setup:
+The `scripts/setup-vps.sh` script bootstraps each VPS with the dotfiles setup:
 
 - Creates a non-root sudo user with your SSH key
 - Installs base packages (curl, git, vim, htop, …)
